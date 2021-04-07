@@ -1,0 +1,12 @@
+.surveyItem-listItem {
+    list-style: none;
+}
+
+.surveyItem-error {
+    color: red;
+}
+
+.surveyItem-textarea {
+    width: 400px;
+    height: 100px;
+}

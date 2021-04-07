@@ -1,0 +1,8 @@
+.survey {
+    text-align: left;
+    padding: 10px;
+}
+
+.survey-description {
+    white-space: pre-wrap;
+}
